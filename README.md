@@ -1,8 +1,17 @@
 # BMI-calculator
-BMI calculator program using python (pycharm) 
+BMI calculator program using python (pycharm)
+**configuration: **
+1. Python 3.10
+2. lib used: MATPLOTLIB AND PANDAS
+3. IDE : pycharm
 
+**two files are present :
+**1. main(1).py contains code for BMI calculation
+**2. test_data.py contains code to used by user.****
+**
 
 **documentation:**
+
 **Problem Statement**
 Given the following JSON data
 [{"Gender": "Male", "HeightCm": 171, "WeightKg": 96 },
@@ -37,7 +46,5 @@ Severely obese 35 - 39.9 High risk
 Very severely obese 40 and above Very high risk
 
 
-**configuration: **
-1. Python 3.10
-2. lib used: MATPLOTLIB AND PANDAS
-3. IDE : pycharm
+
+
